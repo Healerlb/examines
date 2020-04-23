@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/examines.iml" filepath="$PROJECT_DIR$/examines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examines-dao/examines-dao.iml" filepath="$PROJECT_DIR$/examines-dao/examines-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examines-service-impl/examines-service-impl.iml" filepath="$PROJECT_DIR$/examines-service-impl/examines-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examines-web/examines-web.iml" filepath="$PROJECT_DIR$/examines-web/examines-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examines-common/examinescommon.iml" filepath="$PROJECT_DIR$/examines-common/examinescommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examines-service/examinesservice.iml" filepath="$PROJECT_DIR$/examines-service/examinesservice.iml" />
+    </modules>
+  </component>
+</project>

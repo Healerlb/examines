@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="examines-service-impl" />
+        <module name="examines-web" />
+        <module name="examines-dao" />
+        <module name="examinesservice" />
+        <module name="examinescommon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="examines" target="1.8" />
+      <module name="examines-dao" target="1.8" />
+      <module name="examines-service-impl" target="1.8" />
+      <module name="examines-web" target="1.8" />
+      <module name="examinescommon" target="1.8" />
+      <module name="examinesservice" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="examines" options="-parameters" />
+      <module name="examines-dao" options="-parameters" />
+      <module name="examines-service-impl" options="-parameters" />
+      <module name="examines-web" options="-parameters" />
+      <module name="examinescommon" options="-parameters" />
+      <module name="examinesservice" options="-parameters" />
+    </option>
+  </component>
+</project>
